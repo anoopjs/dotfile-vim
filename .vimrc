@@ -1,7 +1,8 @@
 syntax enable 
 set encoding=utf-8
 set showcmd
-color darktango 
+color solarized 
+set background=dark
 set laststatus=2
 set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{CurDir()}%h\ \ \ Line:\ %l/%L:%c
 set tabstop=4
