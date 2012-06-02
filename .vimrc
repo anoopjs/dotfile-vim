@@ -1,4 +1,6 @@
 set autoindent
+set smartindent
+set smarttab
 syntax enable 
 set encoding=utf-8
 set showcmd
